@@ -1,32 +1,40 @@
-## Hi there 👋
+# Hey, I'm João 👋
 
-Im João, an aspiring game dev based in Portugal.
+I'm a freshly minted Computer Science & Engineering graduate (Integrated Master's, FCT NOVA, June 2026) based in the Azores, Portugal 🇵🇹 — passionate about building games and apps that create experiences people actually remember.
 
--I recently completed my Integrated Master's degree in Computer Science and Engineering in June 2026 at FCT NOVA, with my final work that i am very proud of, being "Desenvolvimento de um módulo de visualização para simulador da floresta" you can find it on my profile its public
+My final thesis, **"Desenvolvimento de um módulo de visualização para simulador da floresta"**, is public on my profile — feel free to check it out!
 
--Im very passionate about  deveolping games and apps always wanting to create experiences that help and stick with people. I love taking on interesting challenges, for example recently i have been exploring in unity the physics of cars (who knows it might turn into a game xD).
+---
 
--In my free time I like to catch up on the latest it being either in tech or games. I like to play games, watch series/animes and nerd out about jrpgs.
+## 🎮 What I'm About
 
--My main tech stack is Unity, C#, Java, flutter, GCP and firebase.
+I love taking on interesting challenges and turning them into something playable or useful. Right now I've been diving deep into **car physics in Unity** — who knows, it might just become a game 👀
 
--Fun Facts:
-  -One of my favorite games is SMT IV
-  -My favorite games series is Resident Evil 
-  -My first memory of games was seeing my brother play Kingdom Hearts
-  -My favorite anime is Monster
-  -I like to go on walks to decompress
-<!--
-**jmamorim/jmamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always keeping up with the latest in tech and games, and I geek out pretty hard over JRPGs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+---
+
+## 🕹️ Fun Facts
+
+- 🎮 Favourite game series: **Resident Evil**
+- 🔱 Favourite game: **SMT IV** *(yes, I have good taste)*
+- 👑 First gaming memory: watching my brother play **Kingdom Hearts**
+- 📺 Favourite anime: **Monster**
+- 🚶 I go on walks to decompress — highly recommended
+
+---
+
+## 📬 Let's Connect
+
+Feel free to explore my repos and reach out if you want to collaborate or just talk games and tech!
