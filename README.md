@@ -28,7 +28,7 @@ I'm always keeping up with the latest in tech and games, and I geek out pretty h
 ## Fun Facts
 
 - My favourite game series is **Resident Evil**
-- One of my avourite games is **SMT IV**
+- One of my favourite games is **SMT IV**
 - My first gaming memory watching my brother play **Kingdom Hearts**
 - My favourite anime is **Monster**
 - I go on walks to decompress
