@@ -6,7 +6,7 @@ My final thesis, **"Desenvolvimento de um módulo de visualização para simulad
 
 ---
 
-## 🎮 What I'm About
+## What I'm About
 
 I love taking on interesting challenges and turning them into something playable or useful. Right now I've been diving deep into **car physics in Unity** — who knows, it might just become a game 👀
 
@@ -14,7 +14,7 @@ I'm always keeping up with the latest in tech and games, and I geek out pretty h
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -25,7 +25,7 @@ I'm always keeping up with the latest in tech and games, and I geek out pretty h
 
 ---
 
-## 🕹️ Fun Facts
+## Fun Facts
 
 - Favourite game series: **Resident Evil**
 - Favourite game: **SMT IV** *(yes, I have good taste)*
@@ -33,8 +33,3 @@ I'm always keeping up with the latest in tech and games, and I geek out pretty h
 - Favourite anime: **Monster**
 - I go on walks to decompress
 
----
-
-## 📬 Let's Connect
-
-Feel free to explore my repos and reach out if you want to collaborate or just talk games and tech!
