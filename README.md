@@ -27,11 +27,11 @@ I'm always keeping up with the latest in tech and games, and I geek out pretty h
 
 ## 🕹️ Fun Facts
 
-- 🎮 Favourite game series: **Resident Evil**
-- 🔱 Favourite game: **SMT IV** *(yes, I have good taste)*
-- 👑 First gaming memory: watching my brother play **Kingdom Hearts**
-- 📺 Favourite anime: **Monster**
-- 🚶 I go on walks to decompress — highly recommended
+- Favourite game series: **Resident Evil**
+- Favourite game: **SMT IV** *(yes, I have good taste)*
+- First gaming memory: watching my brother play **Kingdom Hearts**
+- Favourite anime: **Monster**
+- I go on walks to decompress
 
 ---
 
