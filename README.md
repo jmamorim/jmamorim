@@ -8,7 +8,7 @@ My final thesis, **"Desenvolvimento de um módulo de visualização para simulad
 
 ## What I'm About
 
-I love taking on interesting challenges and turning them into something playable or useful. Right now I've been diving deep into **car physics in Unity** — who knows, it might just become a game 👀
+I love taking on interesting challenges and turning them into something playable or useful. Right now I've been playing around with **car physics in Unity**
 
 I'm always keeping up with the latest in tech and games, and I geek out pretty hard over JRPGs.
 
