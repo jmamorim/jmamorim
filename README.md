@@ -1,8 +1,8 @@
 # Hey, I'm João 👋
 
-I'm a newly Computer Science & Engineering graduate (Integrated Master's, FCT NOVA, June 2026) based in Portugal 🇵🇹 — passionate about building games and apps that create experiences people actually remember.
+I'm a newly Computer Science & Engineering graduate (Integrated Master's, FCT NOVA, June 2026) based in Portugal 🇵🇹, passionate about building games and apps that create experiences people actually remember.
 
-My final thesis, **"Desenvolvimento de um módulo de visualização para simulador da floresta"**, is public on my profile — feel free to check it out!
+My final thesis, **"Desenvolvimento de um módulo de visualização para simulador da floresta"**, is public on my profile, feel free to check it out!
 
 ---
 
